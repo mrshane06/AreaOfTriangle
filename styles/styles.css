@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+body{
+    border: solid;
+    border-radius: 7px;
+    width: 350px;
+    margin: auto;
+    margin-top: 250px;
+}
+
+h1{
+    padding: 5px;
+}
+
+input{
+    width: 80px;
+}
